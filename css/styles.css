@@ -196,6 +196,7 @@ ol {
 .team-list {
 	justify-content: space-between;
 	margin-left: 24px;
+	
 }
 .team-list:last-child {
 	margin-left: 0;
@@ -219,6 +220,10 @@ ol {
 	font-size: 20px;
 	line-height: 1.2;
 	margin-bottom: 8px;
+	
+}
+.section-team {
+	padding-top: 120px;
 }
 
 .img {
@@ -298,6 +303,7 @@ background: #404BBF;
 	padding: 0;
 	margin: 0;
 	list-style: none;
+	margin-bottom: 120px;
 
 }
 .customers-button {
@@ -336,6 +342,9 @@ fill:#404BBF;
 gap: 24px;
 }
 
+.section-customers {
+	padding-top: 120px;
+}
 /*button*/
 
 .button-primary {
